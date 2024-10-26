@@ -4,8 +4,10 @@
 <H4>DATE: 21.10.24</H4>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
+
 ## Aim: 
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
+
 
 ## Algorithm:
 #### Step 1: 
@@ -23,6 +25,7 @@ Iterate through each word in the tokenized text.
 •	For each verb , iterate through its synsets (sets of synonyms) using wordnet.synsets(word).
 •	Extract synonyms and antonyms using lemma.name() and lemma.antonyms()[0].name() respectively.
 •	Print the unique sets of synonyms and antonyms.
+
 
 ## Program:
 ```py
@@ -67,8 +70,11 @@ for sentence in sentences:
         print(f"Synonyms: {', '.join(synonyms)}\n")
 
 ```
+
+
 ## Output:
 ![image](https://github.com/user-attachments/assets/30214ce6-d046-4f71-81e8-1be2a5bc9143)
+
 
 ## Result:
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
