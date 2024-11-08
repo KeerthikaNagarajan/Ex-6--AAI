@@ -1,13 +1,14 @@
-<H4>Keerthika N</H4>
-<H4>212221230049</H4>
-<H4>EX. NO.6</H4>
-<H4>DATE: 21.10.24</H4>
-<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
+## Date: 21.10.24
 
+<h1 align="center">  
+   Experiment 6: Implementation of Semantic Analysis
+</h1>  
+
+### Name: Keerthika N
+### Register Number: 212221230049
 
 ## Aim: 
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. 
-
 
 ## Algorithm:
 #### Step 1: 
@@ -26,9 +27,9 @@ Iterate through each word in the tokenized text.
 •	Extract synonyms and antonyms using lemma.name() and lemma.antonyms()[0].name() respectively.
 •	Print the unique sets of synonyms and antonyms.
 
-
 ## Program:
 ```py
+
 import nltk
 from nltk.corpus import wordnet
 
@@ -71,10 +72,9 @@ for sentence in sentences:
 
 ```
 
-
 ## Output:
-![image](https://github.com/user-attachments/assets/30214ce6-d046-4f71-81e8-1be2a5bc9143)
 
+![Screenshot 2024-11-08 at 3 58 47 PM](https://github.com/user-attachments/assets/f0a0e45e-cc9c-4b04-b135-245c0c949c0b)
 
 ## Result:
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
