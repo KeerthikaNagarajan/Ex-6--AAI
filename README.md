@@ -1,4 +1,4 @@
-## Date: 09.09.24
+## Date: 09.09.2024
 
 <h1 align="center">  
    Experiment 6: Implementation of Semantic Analysis
