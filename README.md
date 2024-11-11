@@ -71,10 +71,17 @@ for sentence in sentences:
         print(f"Synonyms: {', '.join(synonyms)}\n")
 
 ```
+## Sample Input File:
+The original trilogy follows Luke's journey to become 
+a Jedi and confront his father, Anakin Skywalker, who had fallen 
+to the dark side and become Darth Vader. As Luke learns about the 
+Force under the mentorship of Jedi Masters like Obi-Wan Kenobi and 
+Yoda, he confronts the ultimate question of redemption and morality, 
+culminating in a final showdown with Vader and the Emperor, which 
+ends with Anakin’s redemption and the fall of the Empire.
 
 ## Output:
-
-![Screenshot 2024-11-08 at 3 58 47 PM](https://github.com/user-attachments/assets/f0a0e45e-cc9c-4b04-b135-245c0c949c0b)
+![Screenshot 2024-11-11 at 2 21 02 PM](https://github.com/user-attachments/assets/d94df0d2-2e37-41a9-83c6-4ce1222bad2d)
 
 ## Result:
-Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
+Thus, the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
