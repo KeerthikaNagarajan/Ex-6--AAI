@@ -55,6 +55,11 @@ def process_text_file(file_path):
     return text  # Return the processed text
 
 text = process_text_file('sample.txt')
+print("Original Text: ")
+with open('sample.txt', 'r') as file:
+    content = file.read()
+    print(content)
+    print("\n")
 
 # Tokenize the text into sentences
 sentences = nltk.sent_tokenize(text)
