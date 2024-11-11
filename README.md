@@ -77,13 +77,8 @@ for sentence in sentences:
 
 ```
 ## Sample Input File:
-The original trilogy follows Luke's journey to become 
-a Jedi and confront his father, Anakin Skywalker, who had fallen 
-to the dark side and become Darth Vader. As Luke learns about the 
-Force under the mentorship of Jedi Masters like Obi-Wan Kenobi and 
-Yoda, he confronts the ultimate question of redemption and morality, 
-culminating in a final showdown with Vader and the Emperor, which 
-ends with Anakin’s redemption and the fall of the Empire.
+![Screenshot 2024-11-11 at 2 33 23 PM](https://github.com/user-attachments/assets/2a280839-322b-4258-95d8-881d02ec1fc7)
+
 
 ## Output:
 ![Screenshot 2024-11-11 at 2 21 02 PM](https://github.com/user-attachments/assets/d94df0d2-2e37-41a9-83c6-4ce1222bad2d)
